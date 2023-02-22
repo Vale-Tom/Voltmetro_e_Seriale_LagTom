@@ -1,0 +1,8 @@
+C:\Users\Utente\Documents\SharpDevelop Projects\comunicazione seriale arduino\comunicazione seriale arduino\bin\Debug\comunicazione seriale arduino.exe.config
+C:\Users\Utente\Documents\SharpDevelop Projects\comunicazione seriale arduino\comunicazione seriale arduino\bin\Debug\comunicazione seriale arduino.exe
+C:\Users\Utente\Documents\SharpDevelop Projects\comunicazione seriale arduino\comunicazione seriale arduino\bin\Debug\comunicazione seriale arduino.pdb
+C:\Users\Utente\Documents\SharpDevelop Projects\comunicazione seriale arduino\comunicazione seriale arduino\obj\Debug\comunicazione seriale arduino.csprojResolveAssemblyReference.cache
+C:\Users\Utente\Documents\SharpDevelop Projects\comunicazione seriale arduino\comunicazione seriale arduino\obj\Debug\comunicazione_seriale_arduino.MainForm.resources
+C:\Users\Utente\Documents\SharpDevelop Projects\comunicazione seriale arduino\comunicazione seriale arduino\obj\Debug\comunicazione seriale arduino.csproj.GenerateResource.Cache
+C:\Users\Utente\Documents\SharpDevelop Projects\comunicazione seriale arduino\comunicazione seriale arduino\obj\Debug\comunicazione seriale arduino.exe
+C:\Users\Utente\Documents\SharpDevelop Projects\comunicazione seriale arduino\comunicazione seriale arduino\obj\Debug\comunicazione seriale arduino.pdb
